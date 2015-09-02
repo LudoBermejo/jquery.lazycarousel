@@ -1,4 +1,4 @@
-# WAKEUP 
+# JQUERY LAZY CAROUSEL 
 
 An alternative boostrap carousel with lazyload
 

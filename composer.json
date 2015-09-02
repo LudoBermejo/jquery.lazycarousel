@@ -1,0 +1,34 @@
+{
+    "name": "components/jquery-lazycarousel",
+    "description": "An alternative boostrap carousel with lazyload",
+    "keywords": [
+        "carousel",
+        "lazy",
+        "bootstrap"
+    ],
+    "license": ["MIT", "GPL"],
+    "type": "component",
+    "homepage": "https://github.com/ludobermejo/jquery.lazycarousel",
+    "authors": [
+        {
+            "name": "LudoBermejo (using unknown code, sorry, I didn't find the author)",
+            "homepage": "http://www.ludobermejo.es"
+        }
+    ],
+    "require": {
+        "robloach/component-installer": "*",
+        "components/jquery": ">=1.7"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "jquery.lazycarousel.js"
+            ],
+            "shim": {
+                "deps": [
+                    "jquery"
+                ]
+            }
+        }
+    }
+}

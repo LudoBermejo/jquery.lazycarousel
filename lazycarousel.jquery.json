@@ -1,0 +1,33 @@
+{
+  "name": "jquery.lazycarousel",
+  "title": "jquery.lazycarousel",
+  "description": "An alternative boostrap carousel with lazyload",
+  "keywords": [
+    "carousel",
+    "lazy",
+    "bootstrap"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "LudoBermejo (using unknown code, sorry, I didn't find the author)",
+    "url": "http://www.ludobermejo.es"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://malsup.github.com/mit-license.txt"
+    },
+    {
+      "type": "GPL",
+      "url": "http://malsup.github.com/gpl-license-v2.txt"
+    }
+  ],
+  "bugs": "https://github.com/ludobermejo/jquery.lazycarousel/issues",
+  "homepage": "https://github.com/ludobermejo/jquery.lazycarousel",
+  "docs": "https://github.com/ludobermejo/jquery.lazycarousel",
+  "download": "https://github.com/ludobermejo/jquery.lazycarousel/jquery.lazycarousel.js",
+  "dependencies": {
+    "jquery": ">=1.7"
+  },
+  "main": "jquery.wakeup.js"
+}
